@@ -28,7 +28,7 @@
 
 * Cross-Task Knowledge Distillation in Multi-Task Recommendation. AAAI 2022
 
-* MetaBalance: Improving Multi-Task Recommendations via Adapting Gradient Magnitudes of Auxiliary Tasks. WWW 22
+* MetaBalance: Improving Multi-Task Recommendations via Adapting Gradient Magnitudes of Auxiliary Tasks. WWW 2022
 
 ### CTR CVR
 
@@ -46,7 +46,7 @@
 
 * Ask the gru: Multitask learning for deep text recommendations. RecSys 2016
 
-* Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering. WWW 22
+* Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering. WWW 2022
 
 ### Algorithm
 
@@ -56,9 +56,9 @@
 
 * Learning Sparse Sharing Architectures for Multiple Tasks. AAAI 2020
 
-* Adversarial Robustness in Multi-Task Learning: Promises and Illusions AAAI 22
+* Adversarial Robustness in Multi-Task Learning: Promises and Illusions AAAI 2022
 
-* Improving Evidential Deep Learning via Multi-Task Learning. AAAI 22
+* Improving Evidential Deep Learning via Multi-Task Learning. AAAI 2022
 
 ### Survey
 
