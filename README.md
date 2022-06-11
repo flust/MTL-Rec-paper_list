@@ -1,6 +1,10 @@
 # MTL Recommendation paper list
 
-以下将推荐系统中的多任务学习论文进行分类：可解释性（interpretability）、多行为（Multi-behavior）、点击率预测（CTR&CVR）、算法（Algorithm）、Survey、其他。以及整理了部分 NLP 与 CV 中的多任务学习论文。另外有几篇 SIGIR 2022 工作还未公开, 先列举在下面。
+* 以下将推荐系统中的多任务学习论文分为以下几类：可解释性（Interpretability）、多行为（Multi-behavior）、点击率预测（CTR&CVR）、算法（Algorithm）、Survey、其他。
+
+* 整理了少部分 NLP 与 CV 中的多任务学习论文。
+
+* 另外，有几篇 SIGIR 2022 工作还未公开, 先列举在下面。
 
 ### Interpretability
 
